@@ -1,0 +1,161 @@
+*{margin:0px;
+padding:0px;}
+
+
+.main {
+}
+
+header{background: #3F5C9A;padding-bottom: 10px;
+		overflow: hidden;}
+
+.container {width: 80%;
+	/*border:3px solid red;*/
+	margin:0 auto;
+	overflow: hidden;
+}
+.name{margin-top: }
+h1{margin-top:31px;
+font-family:  Arial;
+    font-size: 34px;
+    font-weight: bold;
+    margin-bottom: 10px}
+.my{margin-top:10px;
+font-family: Helvetica,Arial, sans-serif;
+    font-size: 18px;
+    /*font-weight: solid;*/
+    line-height: 18px;
+	margin-bottom: 5px;}
+.logo {width: 16%;
+		/*border: 2px solid yellow; */
+		float:left;
+		margin-top: 20px;
+		margin-left: 47px;
+	}
+
+.logo img{width: 100%;}
+
+.container2 {
+	width:50%;
+	/*border: 2px solid orange;*/ 
+	float:right;
+	color:#FFFFFF;
+	margin-top: 10px;
+}
+.form {width:32%;
+	/*border: 2px solid red;*/
+	float:left;
+	margin-left: 91px;
+	font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 18px;
+}
+label{margin-bottom: 5px;}
+
+.form2 {width: 42%;
+		/*border: 2px solid pink;*/
+		float: right;
+		    margin-right: 29px;
+		    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 16px;
+}
+.fun{margin-left: 290px;
+	color:#9CB4D8;}
+.fun a{color:#9CB4D8;
+	text-decoration:none;
+font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 18px;
+}
+.fun a:hover{text-decoration: underline;}
+.submit {background: none;
+	color:#fff;
+	/*cursor: pointer;*/
+	border: 1px solid black;
+	font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 18px;
+}
+.container3{overflow: hidden;
+}
+.body1{width: 60%;
+float: left;}
+.body1 img{width: 100%}
+.body2{width:40%;
+/*border:2px solid red;*/
+float:right;
+overflow:hidden;
+background: #F2F3F8;
+}
+
+.add{display: inline;
+font-size:15px;
+padding:5px;
+border-radius: 5px;
+border:1px solid #A9A9A9;}
+.f_name,.l_name {margin-top: 20px;
+	width: 185px;
+	padding:10px;
+	}
+.l_name{margin-left: 10px}
+.email,.new_password{margin-top: 10px;
+	width:75%;
+	padding:10px;
+}
+.new_password{margin-bottom: 21px;}
+.birt ,.gender{font-family: Helvetica, 
+	Arial, sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    line-height: 18px;
+    color:#90949C;
+}
+.day_of_birth,.birthday_month,.birthday_year
+{padding: 5px;}
+.gender{margin-bottom: -6px;
+margin-top:15px;
+}
+.fan{font-family: Helvetica, 
+	Arial, sans-serif;
+	font-size: 18px;
+line-height: 18px;
+font-weight: solid;
+margin-bottom: 10px;}
+.write{font-family: Helvetica, 
+	Arial, sans-serif;
+	font-size: 12px;
+	width: 316px;
+float:justify;}
+.write a{text-decoration: none;color:blue;}
+.submit00{font-size: 25px;width:193px;
+border-radius: 5px;
+border:1px solid #A9A9A9;
+background: #669F51;
+color: white;
+border: 1px solid black;
+padding: 7px 20px;
+letter-spacing: normal;
+margin-top: 2px;
+cursor: pointer;
+}
+.footer{font-family: Helvetica, 
+	Arial, sans-serif;
+    font-size: 17px;
+    /*font-weight: bold;*/
+    margin-top: 50px;
+    line-height: 18px;}
+ .footer a{text-decoration: none;
+ 	color:blue;
+ }
+ .footer a:hover{text-decoration: underline;color:blue;}
+.container4{overflow: hidden;}
+.footer2 a{text-decoration: none;
+	color:blue;
+	font-size: 30px;
+
+
+	}

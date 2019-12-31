@@ -1,0 +1,12 @@
+*{margin:0;
+padding: 0;}
+body{color:red;}
+/*.contanier{margin:0 auto;*/
+}
+.contanier img{width: 50%;
+height: 700px;}
+.footer2{text-align: center;
+}
+.footer2 a{color:blue;text-decoration: none;
+font-size: 30px}
+p{font-size: 30px;}
